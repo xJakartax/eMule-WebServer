@@ -1,0 +1,1 @@
+var latestVersion='3.6.6b';
